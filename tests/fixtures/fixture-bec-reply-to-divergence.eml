@@ -1,0 +1,18 @@
+Received: from MAIL.corp.example.com (10.20.30.5) by MX.corp.example.com (10.20.30.9); Mon, 2 Nov 2026 09:05:12 +0000
+Received: from unknown-relay.sendgrid.net (198.51.100.44) by MAIL.corp.example.com (10.20.30.5); Mon, 2 Nov 2026 09:05:02 +0000
+Authentication-Results: mx.corp.example.com; spf=pass smtp.mailfrom=sendgrid.net; dkim=pass header.d=sendgrid.net; dmarc=fail header.from=corp.example.com; compauth=fail reason=001
+From: "Adewale Finance Director" <a.director@corp.example.com>
+Reply-To: <director.adewale@gmail.com>
+Return-Path: <bounce@sendgrid.net>
+To: <accounts.payable@corp.example.com>
+Subject: URGENT: Updated bank details for outstanding invoice
+Date: Mon, 2 Nov 2026 09:05:00 +0000
+Message-ID: <synthetic-bec-001@corp.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Please keep this confidential between us.
+
+I am currently in a meeting and cannot take calls. We need to update the
+bank transfer details for the outstanding invoice before close of business.
+The payment is overdue. Send confirmation once the wire transfer is done.

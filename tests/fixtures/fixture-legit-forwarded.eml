@@ -1,0 +1,16 @@
+Received: from relay.partner.example.org (203.0.113.77) by MX.corp.example.com (10.20.30.9); Wed, 4 Nov 2026 08:30:20 +0000
+Received: from smtp.vendor.example.net (203.0.113.10) by relay.partner.example.org (203.0.113.77); Wed, 4 Nov 2026 08:30:05 +0000
+Authentication-Results: mx.corp.example.com; spf=fail smtp.mailfrom=relay.partner.example.org; dkim=pass header.d=vendor.example.net; dmarc=pass header.from=vendor.example.net
+From: "Vendor Billing" <billing@vendor.example.net>
+Return-Path: <billing@vendor.example.net>
+To: <finance@corp.example.com>
+Subject: Your November statement is ready
+Date: Wed, 4 Nov 2026 08:30:00 +0000
+Message-ID: <synthetic-legit-003@vendor.example.net>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+Your monthly statement is available in the billing portal. No action is
+required. Thank you for your business.
